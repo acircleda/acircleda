@@ -2,7 +2,8 @@
 
 
 - 🔭 I’m currently working on data visualization.
-- 🌱 I’m currently learning about causal inference in education.
+- 🔭 I’m currently working at the intersection of climate change and education.
+- 🌱 I’m currently learning about causal inference and machine learning.
 - 😄 Pronouns: he/him/his
 
 <!--
